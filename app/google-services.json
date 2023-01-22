@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486180528029",
+    "project_id": "savefilaha-83f87",
+    "storage_bucket": "savefilaha-83f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486180528029:android:28e9a7a3d3e2547bdc1974",
+        "android_client_info": {
+          "package_name": "com.example.savefilaha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486180528029-l6ca0del25vb9ae85lqmvpmj6crggm43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZD9oGdiLHDmwJ9K1mcX2L_DbCM3sH6-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486180528029-l6ca0del25vb9ae85lqmvpmj6crggm43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
